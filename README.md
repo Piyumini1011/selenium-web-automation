@@ -1,4 +1,4 @@
-# selenium-web-automation
+# Selenium-web-automation
 ## Technology:
 - Tool: selenium
 - IDE: IntelIJ
